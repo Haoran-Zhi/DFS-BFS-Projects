@@ -1,2 +1,3 @@
 # Coding-Projects
-All the code that I wrote for practice
+main function in LabelComponent.cpp
+process the grid in DFS and BFS
